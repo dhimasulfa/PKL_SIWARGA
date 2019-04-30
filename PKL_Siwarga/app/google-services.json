@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "54582021709",
+    "firebase_url": "https://pklsiwarga.firebaseio.com",
+    "project_id": "pklsiwarga",
+    "storage_bucket": "pklsiwarga.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54582021709:android:1817f316ab654464",
+        "android_client_info": {
+          "package_name": "com.example.android.pkl_siwarga"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54582021709-m0qibcckn5gai1gkq43fcbpg2vomd3fo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.pkl_siwarga",
+            "certificate_hash": "0bf38ed2d09abb3dc6fe3e289d2cb0d6a5e75fa7"
+          }
+        },
+        {
+          "client_id": "54582021709-a70aomugr6erp66v1omv61u8vtkv09rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8g0vXURQ47EzPO3GHqsigLvSGFEAEu6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54582021709-a70aomugr6erp66v1omv61u8vtkv09rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

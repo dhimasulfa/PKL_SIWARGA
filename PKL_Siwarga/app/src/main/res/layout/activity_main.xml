@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.android.pkl_siwarga.MainActivity">
+
+    <ImageButton
+        android:id="@+id/emergency"
+        android:layout_marginTop="0dp"
+        style="@android:style/Holo.ButtonBar"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/neww"
+        android:layout_width="500dp"
+        android:layout_height="265dp" />
+    <ImageButton
+        android:id="@+id/anggota"
+        android:layout_marginTop="300dp"
+        style="@android:style/Holo.ButtonBar"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/anggota"
+        android:layout_width="370dp"
+        android:layout_height="80dp" />
+    <ImageButton
+        android:id="@+id/rt"
+        android:layout_marginTop="400dp"
+        style="@android:style/Holo.ButtonBar"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/rt"
+        android:layout_width="370dp"
+        android:layout_height="80dp" />
+    <ImageButton
+        android:id="@+id/rw"
+        android:layout_marginTop="500dp"
+        style="@android:style/Holo.ButtonBar"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/rw"
+        android:layout_width="370dp"
+        android:layout_height="80dp" />
+    <ImageButton
+        android:id="@+id/info"
+        android:layout_marginTop="600dp"
+        style="@android:style/Holo.ButtonBar"
+        android:layout_centerHorizontal="true"
+        android:src="@drawable/iw"
+        android:layout_width="370dp"
+        android:layout_height="80dp" />
+
+</RelativeLayout>
